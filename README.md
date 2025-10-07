@@ -2,7 +2,7 @@
 ---
 ### Realtor | Aspiring Developer
 
-Welcome to my GitHub! By day, I help people find their dream homes. By night, I'm passionate about coding, 3D modeling, and building digital worlds.
+Welcome to my GitHub! By day, I help people find their dream homes. By night, I'm passionate about programming, 3D modeling, and building digital worlds.
 > "one of the greatest to ever do it"
 
 ---
