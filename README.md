@@ -7,22 +7,6 @@ Welcome to my GitHub! By day, I help people find their dream homes. By night, I'
 
 ---
 
-### 💻 Currently Improving Skills In
-- JavaScript
-- Lua
-- TypeScript
-- CSS, HTML
-- MySQL & phpMyAdmin
-- 3D Modeling
-
----
-
-### 🚀 Featured Projects
-- **Personal Website**: Built with TypeScript, aiming for a sleek and modern portfolio.
-- **Custom Discord Bot**: Written in Java, designed to automate and enhance Discord server experiences.
-
----
-
 ### 🤝 Connect With Me
 - Discord: `mk3dior`
 
